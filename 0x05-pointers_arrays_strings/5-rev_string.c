@@ -32,4 +32,3 @@ void rev_string(char *s)
 		i++, j--;
 	}
 }
-weuh...kimeumana!!!!!!
